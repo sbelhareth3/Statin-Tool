@@ -1,0 +1,6 @@
+.idea/*
+deploy/*
+localtest/*
+HDAP_helm_deploy_templates/*
+venv
+venv/*
